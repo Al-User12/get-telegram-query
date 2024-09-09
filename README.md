@@ -11,8 +11,8 @@ A JavaScript tool that searches for URL-encoded `query_id` or `user` data in `se
 ## How to Use
 
 1. **Open Telegram Developer Tools**:
-   Press `Ctrl+Shift+I` (Windows/Linux) or `Cmd+Option+I` (Mac) to open Developer Tools.
+   Press `Ctrl+Shift+I` (Windows/Linux) or `Cmd+Option+I` (Mac) or by right-clicking anywhere on the page and selecting "Inspect" 
 
 2. **Load and Run the Script**:
-   - Copy all code in the `query.js` script to the browser console and enjoy
+   - Copy all code in the `query.js` script to the browser console 
    
